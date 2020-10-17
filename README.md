@@ -6,15 +6,15 @@
 
 Create executable command line app
 
-  $ swift package init --type=executable
+    $ swift package init --type=executable
 
 Build app
 
-  $swift build
+    $swift build
 
 Generate Xcode Project
 
-  $swift package generate-xcodeproj
+    $swift package generate-xcodeproj
 
 
 ## Links
